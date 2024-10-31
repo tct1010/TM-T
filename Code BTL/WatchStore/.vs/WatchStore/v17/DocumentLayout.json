@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|d:\\tm\u0111t\\code btl\\code btl\\watchstore\\watchstore\\areas\\admin\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|solutionrelative:watchstore\\areas\\admin\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\watchstore\\areas\\admin\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|solutionrelative:watchstore\\areas\\admin\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\watchstore\\areas\\library\\checkslug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|solutionrelative:watchstore\\areas\\library\\checkslug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\watchstore\\areas\\admin\\views\\page\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|solutionrelative:watchstore\\areas\\admin\\views\\page\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\watchstore\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|solutionrelative:watchstore\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\watchstore\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|solutionrelative:watchstore\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\watchstore\\views\\site\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|solutionrelative:watchstore\\views\\site\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\watchstore\\views\\site\\_producthome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|solutionrelative:watchstore\\views\\site\\_producthome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\watchstore\\views\\site\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|solutionrelative:watchstore\\views\\site\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\watchstore\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|solutionrelative:watchstore\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\watchstore\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|solutionrelative:watchstore\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\watchstore\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|solutionrelative:watchstore\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckSlug.cs",
+              "DocumentMoniker": "D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\WatchStore\\Areas\\Library\\CheckSlug.cs",
+              "RelativeDocumentMoniker": "WatchStore\\Areas\\Library\\CheckSlug.cs",
+              "ToolTip": "D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\WatchStore\\Areas\\Library\\CheckSlug.cs",
+              "RelativeToolTip": "WatchStore\\Areas\\Library\\CheckSlug.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T09:59:34.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\WatchStore\\Areas\\Admin\\Views\\Page\\Create.cshtml",
+              "RelativeDocumentMoniker": "WatchStore\\Areas\\Admin\\Views\\Page\\Create.cshtml",
+              "ToolTip": "D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\WatchStore\\Areas\\Admin\\Views\\Page\\Create.cshtml",
+              "RelativeToolTip": "WatchStore\\Areas\\Admin\\Views\\Page\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T09:58:53.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\WatchStore\\Areas\\Admin\\Views\\Menu\\Index.cshtml",
+              "RelativeDocumentMoniker": "WatchStore\\Areas\\Admin\\Views\\Menu\\Index.cshtml",
+              "ToolTip": "D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\WatchStore\\Areas\\Admin\\Views\\Menu\\Index.cshtml",
+              "RelativeToolTip": "WatchStore\\Areas\\Admin\\Views\\Menu\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T09:58:18.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\WatchStore\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "WatchStore\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\WatchStore\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "WatchStore\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T09:54:09.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\WatchStore\\Views\\Site\\Search.cshtml",
+              "RelativeDocumentMoniker": "WatchStore\\Views\\Site\\Search.cshtml",
+              "ToolTip": "D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\WatchStore\\Views\\Site\\Search.cshtml",
+              "RelativeToolTip": "WatchStore\\Views\\Site\\Search.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T09:16:58.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\WatchStore\\Areas\\Admin\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WatchStore\\Areas\\Admin\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\WatchStore\\Areas\\Admin\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WatchStore\\Areas\\Admin\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:10:48.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ProductHome.cshtml",
+              "DocumentMoniker": "D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\WatchStore\\Views\\Site\\_ProductHome.cshtml",
+              "RelativeDocumentMoniker": "WatchStore\\Views\\Site\\_ProductHome.cshtml",
+              "ToolTip": "D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\WatchStore\\Views\\Site\\_ProductHome.cshtml",
+              "RelativeToolTip": "WatchStore\\Views\\Site\\_ProductHome.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T09:16:56.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\WatchStore\\Views\\Site\\Home.cshtml",
+              "RelativeDocumentMoniker": "WatchStore\\Views\\Site\\Home.cshtml",
+              "ToolTip": "D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\WatchStore\\Views\\Site\\Home.cshtml",
+              "RelativeToolTip": "WatchStore\\Views\\Site\\Home.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T09:16:49.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\WatchStore\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WatchStore\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\WatchStore\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WatchStore\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:06:10.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\WatchStore\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WatchStore\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\WatchStore\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WatchStore\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAwwCkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:10:29.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\WatchStore\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WatchStore\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\WatchStore\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WatchStore\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:10:02.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\WatchStore\\Web.config",
+              "RelativeDocumentMoniker": "WatchStore\\Web.config",
+              "ToolTip": "D:\\TM\u0110T\\Code BTL\\Code BTL\\WatchStore\\WatchStore\\Web.config",
+              "RelativeToolTip": "WatchStore\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-23T15:04:02.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
